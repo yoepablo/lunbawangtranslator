@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#0f766e">
+    <title>Lun Bawang Translator</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <div class="background-glow glow-one"></div>
+    <div class="background-glow glow-two"></div>
+
+    <main class="page">
+        <section class="hero">
+            <div class="brand-mark">LB</div>
+            <div>
+                <p class="eyebrow">LANGUAGE PRESERVATION PROJECT</p>
+                <h1>Lun Bawang <span>Translator</span></h1>
+                <p class="subtitle">
+                    Learn, explore and connect through Lun Bawang, English and Malay.
+                </p>
+            </div>
+        </section>
+
+        <section class="translator-card">
+            <div class="language-row">
+                <div class="language-box">
+                    <label for="source_lang">From</label>
+                    <select id="source_lang" form="translator-form" name="source_lang">
+                        <option value="lun_bawang" {% if source_lang == 'lun_bawang' %}selected{% endif %}>Lun Bawang</option>
+                        <option value="english" {% if source_lang == 'english' %}selected{% endif %}>English</option>
+                        <option value="malay" {% if source_lang == 'malay' %}selected{% endif %}>Malay</option>
+                    </select>
+                </div>
+
+                <button class="swap-btn" type="button" id="swapBtn" title="Swap languages" aria-label="Swap languages">
+                    ⇄
+                </button>
+
+                <div class="language-box">
+                    <label for="target_lang">To</label>
+                    <select id="target_lang" form="translator-form" name="target_lang">
+                        <option value="lun_bawang" {% if target_lang == 'lun_bawang' %}selected{% endif %}>Lun Bawang</option>
+                        <option value="english" {% if target_lang == 'english' %}selected{% endif %}>English</option>
+                        <option value="malay" {% if target_lang == 'malay' %}selected{% endif %}>Malay</option>
+                    </select>
+                </div>
+            </div>
+
+            <form method="POST" id="translator-form">
+                <input type="hidden" name="source_lang" id="sourceHidden">
+                <input type="hidden" name="target_lang" id="targetHidden">
+
+                <div class="input-wrap">
+                    <textarea
+                        id="textInput"
+                        name="text"
+                        maxlength="500"
+                        placeholder="Type a Lun Bawang word or phrase..."
+                        required
+                    >{{ original_text }}</textarea>
+                    <span class="char-count" id="charCount">0 / 500</span>
+                </div>
+
+                <div class="action-row">
+                    <button type="button" class="clear-btn" id="clearBtn">Clear</button>
+                    <button type="submit" class="translate-btn">
+                        Translate <span>→</span>
+                    </button>
+                </div>
+            </form>
+
+            {% if translated_text %}
+            <div class="result-card">
+                <div class="result-heading">
+                    <div>
+                        <span class="result-label">TRANSLATION</span>
+                        <h2>{{ translated_text }}</h2>
+                    </div>
+                    <button type="button" class="copy-btn" id="copyBtn" data-copy="{{ translated_text }}">
+                        Copy
+                    </button>
+                </div>
+                <p class="result-meta">
+                    {{ source_lang.replace('_', ' ').title() }} → {{ target_lang.replace('_', ' ').title() }}
+                </p>
+            </div>
+            {% endif %}
+        </section>
+
+        <section class="examples-section">
+            <div class="section-heading">
+                <div>
+                    <p class="eyebrow">FROM THE DATABASE</p>
+                    <h2>Example Sentences & Phrases</h2>
+                </div>
+                <span class="count-pill">{{ examples|length }} examples</span>
+            </div>
+
+            <div class="examples-grid">
+                {% for example in examples %}
+                <article class="example-card">
+                    <div class="example-top">
+                        <span class="tag">Lun Bawang</span>
+                        <button
+                            type="button"
+                            class="use-btn"
+                            data-text="{{ example.lun_bawang }}"
+                            title="Use this phrase"
+                        >Use</button>
+                    </div>
+
+                    <div class="lb-text">{{ example.lun_bawang }}</div>
+
+                    <div class="translation-lines">
+                        <div>
+                            <span>English</span>
+                            <strong>{{ example.english }}</strong>
+                        </div>
+                        <div>
+                            <span>Malay</span>
+                            <strong>{{ example.malay }}</strong>
+                        </div>
+                    </div>
+                </article>
+                {% endfor %}
+            </div>
+        </section>
+
+        <footer>
+            <span>🌿 Lun Bawang Translator</span>
+            <span>{{ word_count }} words & phrases in database</span>
+        </footer>
+    </main>
+
+    <script>
+        const sourceSelect = document.getElementById("source_lang");
+        const targetSelect = document.getElementById("target_lang");
+        const sourceHidden = document.getElementById("sourceHidden");
+        const targetHidden = document.getElementById("targetHidden");
+        const textInput = document.getElementById("textInput");
+        const charCount = document.getElementById("charCount");
+
+        function syncHiddenFields() {
+            sourceHidden.value = sourceSelect.value;
+            targetHidden.value = targetSelect.value;
+        }
+
+        function updatePlaceholder() {
+            const names = {
+                lun_bawang: "Lun Bawang",
+                english: "English",
+                malay: "Malay"
+            };
+            textInput.placeholder = "Type a " + names[sourceSelect.value] + " word or phrase...";
+        }
+
+        function updateCharCount() {
+            charCount.textContent = textInput.value.length + " / 500";
+        }
+
+        syncHiddenFields();
+        updatePlaceholder();
+        updateCharCount();
+
+        sourceSelect.addEventListener("change", () => {
+            syncHiddenFields();
+            updatePlaceholder();
+        });
+
+        targetSelect.addEventListener("change", syncHiddenFields);
+        textInput.addEventListener("input", updateCharCount);
+
+        document.getElementById("swapBtn").addEventListener("click", () => {
+            const oldSource = sourceSelect.value;
+            sourceSelect.value = targetSelect.value;
+            targetSelect.value = oldSource;
+            syncHiddenFields();
+            updatePlaceholder();
+        });
+
+        document.getElementById("clearBtn").addEventListener("click", () => {
+            textInput.value = "";
+            updateCharCount();
+            textInput.focus();
+        });
+
+        const copyBtn = document.getElementById("copyBtn");
+        if (copyBtn) {
+            copyBtn.addEventListener("click", async () => {
+                await navigator.clipboard.writeText(copyBtn.dataset.copy);
+                const original = copyBtn.textContent;
+                copyBtn.textContent = "Copied ✓";
+                setTimeout(() => copyBtn.textContent = original, 1400);
+            });
+        }
+
+        document.querySelectorAll(".use-btn").forEach(btn => {
+            btn.addEventListener("click", () => {
+                textInput.value = btn.dataset.text;
+                sourceSelect.value = "lun_bawang";
+                targetSelect.value = "english";
+                syncHiddenFields();
+                updatePlaceholder();
+                updateCharCount();
+                textInput.focus();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            });
+        });
+    </script>
+</body>
+</html>

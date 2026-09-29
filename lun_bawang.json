@@ -1,0 +1,1550 @@
+{
+  "abpa": {
+    "english": "water",
+    "malay": "air"
+  },
+  "abpa nanap": {
+    "english": "sea",
+    "malay": "laut"
+  },
+  "abpa'": {
+    "english": "water",
+    "malay": "air"
+  },
+  "aceh": {
+    "english": "one",
+    "malay": "satu"
+  },
+  "aco": {
+    "english": "day",
+    "malay": "day"
+  },
+  "aco dueh": {
+    "english": "Tuesday",
+    "malay": "Selasa"
+  },
+  "aco enem": {
+    "english": "Saturday",
+    "malay": "Sabtu"
+  },
+  "aco epat": {
+    "english": "Thursday",
+    "malay": "Khamis"
+  },
+  "aco limeh": {
+    "english": "Friday",
+    "malay": "Jumaat"
+  },
+  "aco migu": {
+    "english": "Sunday",
+    "malay": "Ahad"
+  },
+  "aco satu": {
+    "english": "Monday",
+    "malay": "Isnin"
+  },
+  "aco sinih": {
+    "english": "today",
+    "malay": "hari ini"
+  },
+  "aco teluh": {
+    "english": "Wednesday",
+    "malay": "Rabu"
+  },
+  "ada": {
+    "english": "chin",
+    "malay": "dagu"
+  },
+  "ada'": {
+    "english": "ghost",
+    "malay": "ghost"
+  },
+  "alad": {
+    "english": "wall",
+    "malay": "dinding"
+  },
+  "alem": {
+    "english": "yesterday",
+    "malay": "semalam"
+  },
+  "ali": {
+    "english": "quiet",
+    "malay": "quiet"
+  },
+  "alung": {
+    "english": "valley",
+    "malay": "lembah"
+  },
+  "ame dei": {
+    "english": "go there",
+    "malay": "go there"
+  },
+  "ame tunge": {
+    "english": "come here",
+    "malay": "come here"
+  },
+  "amek": {
+    "english": "goat",
+    "malay": "kambing"
+  },
+  "amung": {
+    "english": "all",
+    "malay": "all"
+  },
+  "anak mate'": {
+    "english": "orphan",
+    "malay": "orphan"
+  },
+  "anak sut": {
+    "english": "child",
+    "malay": "anak"
+  },
+  "anam": {
+    "english": "six",
+    "malay": "enam"
+  },
+  "anid aco": {
+    "english": "every day",
+    "malay": "every day"
+  },
+  "anid kereb": {
+    "english": "every moment",
+    "malay": "every moment"
+  },
+  "anun": {
+    "english": "what",
+    "malay": "apa"
+  },
+  "anun bala?": {
+    "english": "how are you?",
+    "malay": "apa khabar?"
+  },
+  "anun ineh?": {
+    "english": "what is that?",
+    "malay": "what is that?"
+  },
+  "anun ruen mu?": {
+    "english": "what are you doing?",
+    "malay": "what are you doing?"
+  },
+  "apat": {
+    "english": "four",
+    "malay": "empat"
+  },
+  "apo": {
+    "english": "roof",
+    "malay": "bumbung"
+  },
+  "apui ngelak": {
+    "english": "cooking fire",
+    "malay": "cooking fire"
+  },
+  "ara": {
+    "english": "don't want",
+    "malay": "don't want"
+  },
+  "ara'": {
+    "english": "dislike, don't want, refuse",
+    "malay": "dislike, don't want, refuse"
+  },
+  "arang gawa'": {
+    "english": "sky",
+    "malay": "langit"
+  },
+  "arang uned": {
+    "english": "in between",
+    "malay": "in between"
+  },
+  "asal": {
+    "english": "if",
+    "malay": "jika"
+  },
+  "atau": {
+    "english": "or",
+    "malay": "atau"
+  },
+  "awan decur": {
+    "english": "wife",
+    "malay": "isteri"
+  },
+  "awan delai": {
+    "english": "husband",
+    "malay": "suami"
+  },
+  "awang": {
+    "english": "joy",
+    "malay": "kegembiraan"
+  },
+  "ayat": {
+    "english": "words",
+    "malay": "words"
+  },
+  "ba": {
+    "english": "very",
+    "malay": "very"
+  },
+  "ba lalid": {
+    "english": "very naughty",
+    "malay": "very naughty"
+  },
+  "ba rayeh uni": {
+    "english": "loud sound",
+    "malay": "loud sound"
+  },
+  "ba ulai": {
+    "english": "late",
+    "malay": "late"
+  },
+  "bala do'": {
+    "english": "I am fine",
+    "malay": "I am fine"
+  },
+  "balang": {
+    "english": "tiger",
+    "malay": "harimau"
+  },
+  "balih": {
+    "english": "a lie",
+    "malay": "a lie"
+  },
+  "bang": {
+    "english": "in",
+    "malay": "in"
+  },
+  "bang dalem": {
+    "english": "inside",
+    "malay": "di dalam"
+  },
+  "barek": {
+    "english": "pig",
+    "malay": "babi"
+  },
+  "baru": {
+    "english": "new, again",
+    "malay": "new, again"
+  },
+  "baruh": {
+    "english": "are you ...",
+    "malay": "are you ..."
+  },
+  "bata don": {
+    "english": "green",
+    "malay": "hijau"
+  },
+  "bata' langit": {
+    "english": "blue",
+    "malay": "biru"
+  },
+  "bata' uduh": {
+    "english": "green",
+    "malay": "hijau"
+  },
+  "batek": {
+    "english": "stomach",
+    "malay": "perut"
+  },
+  "batuh": {
+    "english": "rock, stone",
+    "malay": "batu"
+  },
+  "batuh rayeh": {
+    "english": "a stone, a rock",
+    "malay": "a stone, a rock"
+  },
+  "bawang rayeh": {
+    "english": "town",
+    "malay": "town"
+  },
+  "baya'": {
+    "english": "accompany, come with, follow",
+    "malay": "accompany, come with, follow"
+  },
+  "becuk": {
+    "english": "monkey",
+    "malay": "monyet"
+  },
+  "belajar": {
+    "english": "learn",
+    "malay": "belajar"
+  },
+  "bengil": {
+    "english": "ankle",
+    "malay": "buku lali"
+  },
+  "bera": {
+    "english": "husked but uncooked rice",
+    "malay": "husked but uncooked rice"
+  },
+  "berat": {
+    "english": "heavy",
+    "malay": "berat"
+  },
+  "beren": {
+    "english": "given",
+    "malay": "given"
+  },
+  "beruh": {
+    "english": "again",
+    "malay": "lagi"
+  },
+  "beré": {
+    "english": "give",
+    "malay": "beri"
+  },
+  "bibir": {
+    "english": "lips",
+    "malay": "bibir"
+  },
+  "binaweh": {
+    "english": "things, possessions",
+    "malay": "things, possessions"
+  },
+  "birar": {
+    "english": "yellow",
+    "malay": "kuning"
+  },
+  "bire": {
+    "english": "gave",
+    "malay": "gave"
+  },
+  "bor": {
+    "english": "full stomach",
+    "malay": "kenyang"
+  },
+  "bua'": {
+    "english": "fruit",
+    "malay": "buah"
+  },
+  "bua' bong": {
+    "english": "banana",
+    "malay": "pisang"
+  },
+  "bua' buyo": {
+    "english": "citrus fruit, orange, lemon",
+    "malay": "citrus fruit, orange, lemon"
+  },
+  "bua' kukud": {
+    "english": "toes",
+    "malay": "jari kaki"
+  },
+  "bua' ticu'": {
+    "english": "fingers",
+    "malay": "jari"
+  },
+  "buda'": {
+    "english": "white",
+    "malay": "putih"
+  },
+  "buku ago": {
+    "english": "Bible",
+    "malay": "Bible"
+  },
+  "bukuh": {
+    "english": "book",
+    "malay": "buku"
+  },
+  "bulan": {
+    "english": "moon",
+    "malay": "bulan"
+  },
+  "bulan dueh": {
+    "english": "February",
+    "malay": "February"
+  },
+  "bulan enem": {
+    "english": "June",
+    "malay": "June"
+  },
+  "bulan epat": {
+    "english": "April",
+    "malay": "April"
+  },
+  "bulan limeh": {
+    "english": "May",
+    "malay": "May"
+  },
+  "bulan liwa'": {
+    "english": "September",
+    "malay": "September"
+  },
+  "bulan pulu'": {
+    "english": "October",
+    "malay": "October"
+  },
+  "bulan pulu' aceh": {
+    "english": "November",
+    "malay": "November"
+  },
+  "bulan pulu' dueh": {
+    "english": "December",
+    "malay": "December"
+  },
+  "bulan satu": {
+    "english": "January",
+    "malay": "January"
+  },
+  "bulan teluh": {
+    "english": "March",
+    "malay": "March"
+  },
+  "bulan tudu'": {
+    "english": "July",
+    "malay": "July"
+  },
+  "bulan waluh": {
+    "english": "August",
+    "malay": "August"
+  },
+  "buri'": {
+    "english": "speak, talk",
+    "malay": "bercakap"
+  },
+  "dalan": {
+    "english": "road",
+    "malay": "jalan"
+  },
+  "dat": {
+    "english": "bad",
+    "malay": "buruk"
+  },
+  "dat niat": {
+    "english": "sad",
+    "malay": "sedih"
+  },
+  "decur": {
+    "english": "female",
+    "malay": "female"
+  },
+  "dei": {
+    "english": "there",
+    "malay": "di sana"
+  },
+  "ding rumah": {
+    "english": "family",
+    "malay": "keluarga"
+  },
+  "do pekak": {
+    "english": "good morning",
+    "malay": "good morning"
+  },
+  "do'": {
+    "english": "good",
+    "malay": "baik"
+  },
+  "dueh": {
+    "english": "two",
+    "malay": "dua"
+  },
+  "fa": {
+    "english": "drink, river",
+    "malay": "drink, river"
+  },
+  "fa'": {
+    "english": "water",
+    "malay": "air"
+  },
+  "feh": {
+    "english": "already",
+    "malay": "sudah"
+  },
+  "fuk": {
+    "english": "hair",
+    "malay": "rambut"
+  },
+  "gagap": {
+    "english": "shocked",
+    "malay": "shocked"
+  },
+  "gelas": {
+    "english": "glass",
+    "malay": "glass"
+  },
+  "hello": {
+    "english": "hello",
+    "malay": "hello"
+  },
+  "ianih": {
+    "english": "here",
+    "malay": "di sini"
+  },
+  "ibalih": {
+    "english": "a liar",
+    "malay": "a liar"
+  },
+  "icung": {
+    "english": "nose",
+    "malay": "hidung"
+  },
+  "idan": {
+    "english": "when",
+    "malay": "bila"
+  },
+  "ide ngadan mu?": {
+    "english": "what is your name?",
+    "malay": "what is your name?"
+  },
+  "ideh": {
+    "english": "they",
+    "malay": "mereka"
+  },
+  "ikai": {
+    "english": "we",
+    "malay": "kami"
+  },
+  "iko": {
+    "english": "you",
+    "malay": "awak"
+  },
+  "irang": {
+    "english": "sloop",
+    "malay": "sloop"
+  },
+  "ire": {
+    "english": "who",
+    "malay": "siapa"
+  },
+  "iring": {
+    "english": "next to, beside",
+    "malay": "next to, beside"
+  },
+  "isut": {
+    "english": "small",
+    "malay": "kecil"
+  },
+  "itun": {
+    "english": "question",
+    "malay": "soalan"
+  },
+  "jaban": {
+    "english": "toilet",
+    "malay": "tandas"
+  },
+  "ju'": {
+    "english": "bathe",
+    "malay": "mandi"
+  },
+  "kabun": {
+    "english": "garden",
+    "malay": "kebun"
+  },
+  "kamang": {
+    "english": "crawl, crawling",
+    "malay": "crawl, crawling"
+  },
+  "kan": {
+    "english": "eat, ate",
+    "malay": "eat, ate"
+  },
+  "kareb": {
+    "english": "when",
+    "malay": "bila"
+  },
+  "kated": {
+    "english": "back",
+    "malay": "belakang"
+  },
+  "kayuh": {
+    "english": "trees",
+    "malay": "pokok-pokok"
+  },
+  "kayuh mulun": {
+    "english": "tree",
+    "malay": "pokok"
+  },
+  "kelaluh": {
+    "english": "physical fighting",
+    "malay": "physical fighting"
+  },
+  "keli'": {
+    "english": "know",
+    "malay": "know"
+  },
+  "kenui": {
+    "english": "eagle",
+    "malay": "eagle"
+  },
+  "kerubau": {
+    "english": "buffalo",
+    "malay": "kerbau"
+  },
+  "kuman": {
+    "english": "eat",
+    "malay": "makan"
+  },
+  "kupi": {
+    "english": "coffee",
+    "malay": "kopi"
+  },
+  "kuwih": {
+    "english": "to me, with me",
+    "malay": "kepada saya, dengan saya"
+  },
+  "kuyad": {
+    "english": "monkey",
+    "malay": "monyet"
+  },
+  "laba": {
+    "english": "walk past",
+    "malay": "walk past"
+  },
+  "labo": {
+    "english": "rat",
+    "malay": "tikus"
+  },
+  "lai": {
+    "english": "male",
+    "malay": "male"
+  },
+  "lai lai mehr pad": {
+    "english": "similar",
+    "malay": "similar"
+  },
+  "lak": {
+    "english": "year",
+    "malay": "tahun"
+  },
+  "lal": {
+    "english": "chicken",
+    "malay": "ayam"
+  },
+  "lalan": {
+    "english": "path",
+    "malay": "path"
+  },
+  "laled": {
+    "english": "fly",
+    "malay": "lalat"
+  },
+  "lalid": {
+    "english": "ears",
+    "malay": "telinga"
+  },
+  "langit": {
+    "english": "sky",
+    "malay": "langit"
+  },
+  "lapung": {
+    "english": "light",
+    "malay": "cahaya"
+  },
+  "laput": {
+    "english": "cloud",
+    "malay": "awan"
+  },
+  "lati": {
+    "english": "rice paddy",
+    "malay": "rice paddy"
+  },
+  "lawe": {
+    "english": "go, direction",
+    "malay": "go, direction"
+  },
+  "lawe siri siri": {
+    "english": "straight ahead",
+    "malay": "terus ke hadapan"
+  },
+  "lawid": {
+    "english": "fish",
+    "malay": "ikan"
+  },
+  "le miud": {
+    "english": "turn",
+    "malay": "turn"
+  },
+  "le miud pa kabing": {
+    "english": "turn left",
+    "malay": "belok kiri"
+  },
+  "le miud pa tinueh": {
+    "english": "turn right",
+    "malay": "belok kanan"
+  },
+  "lek": {
+    "english": "maybe",
+    "malay": "maybe"
+  },
+  "lemanguy": {
+    "english": "to swim",
+    "malay": "to swim"
+  },
+  "lematek": {
+    "english": "leech",
+    "malay": "lintah"
+  },
+  "lengen": {
+    "english": "arms",
+    "malay": "lengan"
+  },
+  "ligan": {
+    "english": "clean",
+    "malay": "bersih"
+  },
+  "limeh": {
+    "english": "five",
+    "malay": "lima"
+  },
+  "liwa": {
+    "english": "nine",
+    "malay": "sembilan"
+  },
+  "lubed": {
+    "english": "return, from somewhere",
+    "malay": "pulang"
+  },
+  "lubid": {
+    "english": "to lie down",
+    "malay": "to lie down"
+  },
+  "lufa": {
+    "english": "snake gourd",
+    "malay": "snake gourd"
+  },
+  "luk kanen": {
+    "english": "food",
+    "malay": "makanan"
+  },
+  "luk kenen": {
+    "english": "food",
+    "malay": "makanan"
+  },
+  "luk kereb dih": {
+    "english": "last one",
+    "malay": "last one"
+  },
+  "luk sapeh": {
+    "english": "which one",
+    "malay": "which one"
+  },
+  "luk sulad": {
+    "english": "last, the last one",
+    "malay": "last, the last one"
+  },
+  "luk sulud": {
+    "english": "last one",
+    "malay": "last one"
+  },
+  "maca'": {
+    "english": "read",
+    "malay": "baca"
+  },
+  "mada'": {
+    "english": "tell",
+    "malay": "tell"
+  },
+  "malau": {
+    "english": "hungry",
+    "malay": "lapar"
+  },
+  "manged": {
+    "english": "many",
+    "malay": "banyak"
+  },
+  "marot": {
+    "english": "play",
+    "malay": "bermain"
+  },
+  "masi'": {
+    "english": "few",
+    "malay": "sedikit"
+  },
+  "mateh aco": {
+    "english": "sun",
+    "malay": "matahari"
+  },
+  "mawa": {
+    "english": "love",
+    "malay": "cinta"
+  },
+  "mawang niat": {
+    "english": "glad, happy",
+    "malay": "glad, happy"
+  },
+  "maya' negku": {
+    "english": "follow me",
+    "malay": "ikut saya"
+  },
+  "me' tunge'": {
+    "english": "come",
+    "malay": "datang"
+  },
+  "me' yapeh ko": {
+    "english": "where are you going?",
+    "malay": "where are you going?"
+  },
+  "mebeneh": {
+    "english": "short",
+    "malay": "pendek"
+  },
+  "mebuda'": {
+    "english": "white",
+    "malay": "putih"
+  },
+  "medalem": {
+    "english": "deep",
+    "malay": "dalam"
+  },
+  "medita'": {
+    "english": "tall, high",
+    "malay": "tall, high"
+  },
+  "mefeh": {
+    "english": "falling",
+    "malay": "jatuh"
+  },
+  "megai'": {
+    "english": "always",
+    "malay": "sentiasa"
+  },
+  "mekadang": {
+    "english": "long",
+    "malay": "long"
+  },
+  "mekamu'": {
+    "english": "short",
+    "malay": "pendek"
+  },
+  "mekatu": {
+    "english": "good",
+    "malay": "baik"
+  },
+  "mekupit": {
+    "english": "shrinking",
+    "malay": "mengecut"
+  },
+  "mekuu'": {
+    "english": "brave",
+    "malay": "berani"
+  },
+  "melaput": {
+    "english": "cloudy",
+    "malay": "berawan"
+  },
+  "melau": {
+    "english": "hungry",
+    "malay": "lapar"
+  },
+  "melau'": {
+    "english": "hot",
+    "malay": "panas"
+  },
+  "mele": {
+    "english": "cheap",
+    "malay": "murah"
+  },
+  "melemuh": {
+    "english": "fat",
+    "malay": "fat"
+  },
+  "melih": {
+    "english": "buy",
+    "malay": "beli"
+  },
+  "menad": {
+    "english": "climbing",
+    "malay": "climbing"
+  },
+  "mengadel": {
+    "english": "blunt",
+    "malay": "tumpul"
+  },
+  "menipeh": {
+    "english": "snake",
+    "malay": "ular"
+  },
+  "meno": {
+    "english": "steal",
+    "malay": "curi"
+  },
+  "meparing": {
+    "english": "thirsty",
+    "malay": "dahaga"
+  },
+  "meran": {
+    "english": "light",
+    "malay": "cahaya"
+  },
+  "meratu": {
+    "english": "one hundred",
+    "malay": "seratus"
+  },
+  "merburi": {
+    "english": "muddy",
+    "malay": "berlumpur"
+  },
+  "mere": {
+    "english": "give",
+    "malay": "beri"
+  },
+  "meribu": {
+    "english": "one thousand",
+    "malay": "seribu"
+  },
+  "merimud": {
+    "english": "smiling",
+    "malay": "tersenyum"
+  },
+  "meriruh": {
+    "english": "laugh",
+    "malay": "ketawa"
+  },
+  "merita": {
+    "english": "tall",
+    "malay": "tinggi"
+  },
+  "meru'": {
+    "english": "wash",
+    "malay": "basuh"
+  },
+  "merugu": {
+    "english": "thin",
+    "malay": "thin"
+  },
+  "merur": {
+    "english": "tired",
+    "malay": "penat"
+  },
+  "meselud": {
+    "english": "slippery",
+    "malay": "licin"
+  },
+  "mesia": {
+    "english": "red",
+    "malay": "merah"
+  },
+  "mesido'": {
+    "english": "arrogant",
+    "malay": "sombong"
+  },
+  "mesiri": {
+    "english": "straight ahead",
+    "malay": "terus ke hadapan"
+  },
+  "mesti": {
+    "english": "should",
+    "malay": "should"
+  },
+  "mesusa niat": {
+    "english": "sad",
+    "malay": "sedih"
+  },
+  "metadem": {
+    "english": "sharp, object",
+    "malay": "tajam"
+  },
+  "metaga": {
+    "english": "beautiful",
+    "malay": "cantik"
+  },
+  "meteneb": {
+    "english": "cold",
+    "malay": "sejuk"
+  },
+  "metu": {
+    "english": "correct",
+    "malay": "betul"
+  },
+  "metutun": {
+    "english": "shallow",
+    "malay": "cetek"
+  },
+  "miek": {
+    "english": "I can",
+    "malay": "I can"
+  },
+  "migu": {
+    "english": "week",
+    "malay": "minggu"
+  },
+  "mija": {
+    "english": "table",
+    "malay": "meja"
+  },
+  "mikat": {
+    "english": "expensive, difficult",
+    "malay": "expensive, difficult"
+  },
+  "misu'": {
+    "english": "change",
+    "malay": "change"
+  },
+  "mitek": {
+    "english": "close",
+    "malay": "close"
+  },
+  "mitem": {
+    "english": "black",
+    "malay": "hitam"
+  },
+  "mo": {
+    "english": "yes",
+    "malay": "ya"
+  },
+  "mo umak": {
+    "english": "please come in",
+    "malay": "please come in"
+  },
+  "mucih": {
+    "english": "late",
+    "malay": "late"
+  },
+  "mudan": {
+    "english": "rainy",
+    "malay": "hujan"
+  },
+  "mula'": {
+    "english": "many",
+    "malay": "banyak"
+  },
+  "mulai niat": {
+    "english": "patient",
+    "malay": "sabar"
+  },
+  "museh": {
+    "english": "angry",
+    "malay": "marah"
+  },
+  "na luk idih": {
+    "english": "none",
+    "malay": "tiada"
+  },
+  "na tupu": {
+    "english": "never",
+    "malay": "tidak pernah"
+  },
+  "naa nengaweh": {
+    "english": "single",
+    "malay": "single"
+  },
+  "nabud": {
+    "english": "finish",
+    "malay": "habis"
+  },
+  "najar": {
+    "english": "teaching",
+    "malay": "teaching"
+  },
+  "nakap": {
+    "english": "look for",
+    "malay": "cari"
+  },
+  "nalan": {
+    "english": "walking",
+    "malay": "walking"
+  },
+  "nalan-nalan": {
+    "english": "walk around",
+    "malay": "walk around"
+  },
+  "nalap": {
+    "english": "accept, take",
+    "malay": "accept, take"
+  },
+  "nam": {
+    "english": "no",
+    "malay": "tidak"
+  },
+  "namai": {
+    "english": "weeding",
+    "malay": "weeding"
+  },
+  "nan": {
+    "english": "have, there is",
+    "malay": "ada"
+  },
+  "nanak": {
+    "english": "born",
+    "malay": "born"
+  },
+  "nanem": {
+    "english": "bury, plant",
+    "malay": "bury, plant"
+  },
+  "nangi'": {
+    "english": "cry",
+    "malay": "cry"
+  },
+  "nani": {
+    "english": "sing",
+    "malay": "menyanyi"
+  },
+  "napeh": {
+    "english": "later",
+    "malay": "nanti"
+  },
+  "napeh atun": {
+    "english": "wait a minute",
+    "malay": "wait a minute"
+  },
+  "naru": {
+    "english": "do, make",
+    "malay": "do, make"
+  },
+  "nate": {
+    "english": "dead, animal or plant",
+    "malay": "mati"
+  },
+  "natek": {
+    "english": "close, e.g. close the door",
+    "malay": "close, e.g. close the door"
+  },
+  "nawar": {
+    "english": "call",
+    "malay": "panggil"
+  },
+  "nayud": {
+    "english": "writing",
+    "malay": "writing"
+  },
+  "necan": {
+    "english": "leave something behind",
+    "malay": "leave something behind"
+  },
+  "necing": {
+    "english": "arrive",
+    "malay": "arrive"
+  },
+  "nefa": {
+    "english": "tomorrow",
+    "malay": "esok"
+  },
+  "neh": {
+    "english": "that",
+    "malay": "that"
+  },
+  "nehrninger": {
+    "english": "listen",
+    "malay": "dengar"
+  },
+  "nehrniyer": {
+    "english": "look",
+    "malay": "look"
+  },
+  "nekap": {
+    "english": "searching",
+    "malay": "searching"
+  },
+  "nekinih": {
+    "english": "now",
+    "malay": "sekarang"
+  },
+  "nelak": {
+    "english": "cooking",
+    "malay": "cooking"
+  },
+  "nemug": {
+    "english": "keep",
+    "malay": "keep"
+  },
+  "nengan": {
+    "english": "plus",
+    "malay": "tambah"
+  },
+  "nengaweh": {
+    "english": "married",
+    "malay": "married"
+  },
+  "nerat": {
+    "english": "dead, human",
+    "malay": "mati"
+  },
+  "nerawe": {
+    "english": "remember",
+    "malay": "ingat"
+  },
+  "nered": {
+    "english": "old",
+    "malay": "lama"
+  },
+  "nerung": {
+    "english": "put",
+    "malay": "put"
+  },
+  "ngaceku": {
+    "english": "because",
+    "malay": "kerana"
+  },
+  "ngadan": {
+    "english": "name",
+    "malay": "nama"
+  },
+  "ngait": {
+    "english": "wait",
+    "malay": "tunggu"
+  },
+  "ngerawe": {
+    "english": "think",
+    "malay": "fikir"
+  },
+  "ngirup": {
+    "english": "drink",
+    "malay": "minum"
+  },
+  "ngitek": {
+    "english": "shut, door",
+    "malay": "tutup pintu"
+  },
+  "ngubur": {
+    "english": "praise",
+    "malay": "puji"
+  },
+  "ngukab": {
+    "english": "open, door",
+    "malay": "buka pintu"
+  },
+  "nier": {
+    "english": "see",
+    "malay": "lihat"
+  },
+  "ninger": {
+    "english": "hear",
+    "malay": "dengar"
+  },
+  "no": {
+    "english": "no",
+    "malay": "tidak"
+  },
+  "nuba'": {
+    "english": "food",
+    "malay": "makanan"
+  },
+  "pa' atun": {
+    "english": "in front",
+    "malay": "di hadapan"
+  },
+  "pad dengan": {
+    "english": "equals",
+    "malay": "sama dengan"
+  },
+  "pade'": {
+    "english": "unhusked rice",
+    "malay": "unhusked rice"
+  },
+  "papu namu": {
+    "english": "meet you",
+    "malay": "meet you"
+  },
+  "papu'": {
+    "english": "meet",
+    "malay": "meet"
+  },
+  "pawa'": {
+    "english": "a few",
+    "malay": "beberapa"
+  },
+  "payo": {
+    "english": "deer",
+    "malay": "rusa"
+  },
+  "pebaya'": {
+    "english": "to be accompanied",
+    "malay": "to be accompanied"
+  },
+  "pebaya'(negku)": {
+    "english": "accompany me",
+    "malay": "teman saya"
+  },
+  "peburi": {
+    "english": "to speak, to talk",
+    "malay": "to speak, to talk"
+  },
+  "pegayam": {
+    "english": "conversation",
+    "malay": "perbualan"
+  },
+  "pegkung": {
+    "english": "mountain",
+    "malay": "gunung"
+  },
+  "pehr mung": {
+    "english": "together",
+    "malay": "together"
+  },
+  "pelaba": {
+    "english": "too, very",
+    "malay": "too, very"
+  },
+  "pelanuk": {
+    "english": "mousedeer",
+    "malay": "kancil"
+  },
+  "pen": {
+    "english": "pen",
+    "malay": "pen"
+  },
+  "pengeh": {
+    "english": "already, done",
+    "malay": "already, done"
+  },
+  "penu": {
+    "english": "full",
+    "malay": "penuh"
+  },
+  "pesial": {
+    "english": "dispute, argument",
+    "malay": "dispute, argument"
+  },
+  "pian": {
+    "english": "want, like to",
+    "malay": "mahu, suka"
+  },
+  "pingit": {
+    "english": "cheek",
+    "malay": "pipi"
+  },
+  "pudut": {
+    "english": "building",
+    "malay": "bangunan"
+  },
+  "pukul": {
+    "english": "hour",
+    "malay": "jam"
+  },
+  "puluh": {
+    "english": "ten",
+    "malay": "sepuluh"
+  },
+  "raa": {
+    "english": "chin",
+    "malay": "dagu"
+  },
+  "range": {
+    "english": "there",
+    "malay": "di sana"
+  },
+  "range yang": {
+    "english": "out, outside",
+    "malay": "out, outside"
+  },
+  "rapur": {
+    "english": "kitchen",
+    "malay": "dapur"
+  },
+  "rat yapeh": {
+    "english": "from",
+    "malay": "from"
+  },
+  "rat yapeh ko": {
+    "english": "where do you come from?",
+    "malay": "where do you come from?"
+  },
+  "raut": {
+    "english": "joke",
+    "malay": "gurau"
+  },
+  "rayeh": {
+    "english": "big",
+    "malay": "besar"
+  },
+  "rayeh pipang": {
+    "english": "wide",
+    "malay": "lebar"
+  },
+  "rengeb": {
+    "english": "cliff",
+    "malay": "tebing"
+  },
+  "repar": {
+    "english": "feet",
+    "malay": "kaki"
+  },
+  "rideh": {
+    "english": "theirs",
+    "malay": "theirs"
+  },
+  "rudap": {
+    "english": "sleep",
+    "malay": "tidur"
+  },
+  "rueb": {
+    "english": "waterfall",
+    "malay": "air terjun"
+  },
+  "ruma'": {
+    "english": "house",
+    "malay": "rumah"
+  },
+  "sapi": {
+    "english": "cow",
+    "malay": "lembu"
+  },
+  "sebuleng": {
+    "english": "alone",
+    "malay": "sendirian"
+  },
+  "sembayang": {
+    "english": "pray",
+    "malay": "berdoa"
+  },
+  "sesuut": {
+    "english": "a few",
+    "malay": "beberapa"
+  },
+  "singa": {
+    "english": "lion",
+    "malay": "singa"
+  },
+  "suit": {
+    "english": "bird",
+    "malay": "burung"
+  },
+  "surud": {
+    "english": "hill",
+    "malay": "bukit"
+  },
+  "sut": {
+    "english": "small",
+    "malay": "kecil"
+  },
+  "takeh": {
+    "english": "lake",
+    "malay": "tasik"
+  },
+  "takep": {
+    "english": "room",
+    "malay": "bilik"
+  },
+  "takep rudap": {
+    "english": "bedroom",
+    "malay": "bilik tidur"
+  },
+  "takung": {
+    "english": "lake",
+    "malay": "tasik"
+  },
+  "talau": {
+    "english": "barking deer",
+    "malay": "pelanduk"
+  },
+  "tamam": {
+    "english": "father",
+    "malay": "ayah"
+  },
+  "taman": {
+    "english": "father",
+    "malay": "ayah"
+  },
+  "taman pinaken": {
+    "english": "uncle",
+    "malay": "pak cik"
+  },
+  "taman tinan": {
+    "english": "parents",
+    "malay": "ibu bapa"
+  },
+  "tana": {
+    "english": "floor",
+    "malay": "lantai"
+  },
+  "tana' reked": {
+    "english": "plain",
+    "malay": "plain"
+  },
+  "tang": {
+    "english": "mouth",
+    "malay": "mulut"
+  },
+  "tau": {
+    "english": "us",
+    "malay": "us"
+  },
+  "tea": {
+    "english": "tea",
+    "malay": "teh"
+  },
+  "tebubpun": {
+    "english": "worship service",
+    "malay": "ibadah"
+  },
+  "telubid": {
+    "english": "lie down",
+    "malay": "lie down"
+  },
+  "teluh": {
+    "english": "three",
+    "malay": "tiga"
+  },
+  "temubu": {
+    "english": "growing",
+    "malay": "growing"
+  },
+  "teneb": {
+    "english": "cold",
+    "malay": "sejuk"
+  },
+  "tenga": {
+    "english": "door",
+    "malay": "pintu"
+  },
+  "tepun cur": {
+    "english": "grandmother",
+    "malay": "nenek"
+  },
+  "tepun lai": {
+    "english": "grandfather",
+    "malay": "datuk"
+  },
+  "terawe": {
+    "english": "opinion, think",
+    "malay": "opinion, think"
+  },
+  "terur": {
+    "english": "egg",
+    "malay": "telur"
+  },
+  "terutung": {
+    "english": "porcupine",
+    "malay": "landak"
+  },
+  "thank you": {
+    "english": "thank you",
+    "malay": "terima kasih"
+  },
+  "tudo": {
+    "english": "sit",
+    "malay": "duduk"
+  },
+  "tukung": {
+    "english": "mosquito",
+    "malay": "nyamuk"
+  },
+  "tunge": {
+    "english": "here",
+    "malay": "di sini"
+  },
+  "tuped": {
+    "english": "stand",
+    "malay": "berdiri"
+  },
+  "udan": {
+    "english": "rain",
+    "malay": "hujan"
+  },
+  "uduh": {
+    "english": "grass",
+    "malay": "rumput"
+  },
+  "ui": {
+    "english": "I",
+    "malay": "saya"
+  },
+  "uko": {
+    "english": "dog",
+    "malay": "anjing"
+  },
+  "upun": {
+    "english": "run",
+    "malay": "lari"
+  },
+  "using": {
+    "english": "cat",
+    "malay": "kucing"
+  },
+  "yapeh": {
+    "english": "where",
+    "malay": "di mana"
+  },
+  "yes": {
+    "english": "yes",
+    "malay": "ya"
+  }
+}
